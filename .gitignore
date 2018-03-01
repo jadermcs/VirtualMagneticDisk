@@ -1,0 +1,9 @@
+*.o
+*.out
+
+obj/
+bin/
+test/bin/
+
+build/
+.idea/
